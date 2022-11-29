@@ -103,6 +103,10 @@ section {
     padding: 10px;
 }
 
+.flags {
+    width: 45px;
+}
+
 .currency-name {
     margin-top: 5px;
     font-size: 14px;
